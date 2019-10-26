@@ -35,6 +35,14 @@
         android:rating="8.6" />
 
     <TextView
+        android:id="@+id/releaseDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textColor="@color/colorWhite"
+        tools:text="Release Date: " />
+
+    <TextView
         android:id="@+id/tvOverview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

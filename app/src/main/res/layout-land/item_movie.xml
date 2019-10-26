@@ -28,6 +28,7 @@
         android:textSize="24sp"
         tools:text="Fast and Furious" />
 
+
     <TextView
         android:id="@+id/tvOverview"
         android:layout_width="wrap_content"
