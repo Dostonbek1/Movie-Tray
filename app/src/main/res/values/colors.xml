@@ -10,4 +10,5 @@
     <color name="colorMaroon">#800000</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorYellow">#FFFF00</color>
+    <color name="colorLightBlack">#3f353d</color>
 </resources>
