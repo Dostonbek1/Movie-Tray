@@ -1,30 +1,12 @@
-## Flix Part 2
+# Movie Tray
+*Simple movies app that lets users discover newly released movies, using TMDb API. User can see the description, release date and the trailer of each movie.*
 
-### User Stories
+Download it on Google Play:
 
-#### REQUIRED (10pts)
+<a href="" target="_blank"><img src="images/google_play_badge.png" height="60px"></a>
 
-- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+Screenshots:
 
-#### BONUS
+<img src="images/screenshot1.png" height="300px"> <img src="images/screenshot2.png" height="300px"> <img src="images/screenshot3.png" height="300px">
 
-- [x] Trailers for popular movies are played automatically when the movie is selected (1 point).
-  - [x] When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
-  - [x] Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
-- [ ] Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
-- [ ] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
-- [x] Add a rounded corners for the images using the Glide transformations. (1 point)
-
-### App Walkthough GIF
-
-<img src="gif_walkthru_week_2.gif" width=250><br>
-
-### Notes
-
-Describe any challenges encountered while building the app.
-
-## Open-source libraries used
-- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
-
+*Special thanks to <a href="https://www.codepath.org" target="_blank">Codepath.org</a> for their amazing courses*
