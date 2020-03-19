@@ -1,4 +1,4 @@
-package com.example.flixster.adapters;
+package com.dostonbek.movietray.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -9,19 +9,17 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.resource.bitmap.CenterCrop;
-import com.bumptech.glide.load.resource.bitmap.CenterInside;
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners;
 import com.bumptech.glide.request.RequestOptions;
-import com.example.flixster.DetailActivity;
-import com.example.flixster.R;
-import com.example.flixster.models.Movie;
+import com.dostonbek.movietray.DetailActivity;
+import com.dostonbek.movietray.R;
+import com.dostonbek.movietray.models.Movie;
 
 import org.parceler.Parcels;
 

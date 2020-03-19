@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Flixster.iml" filepath="$PROJECT_DIR$/Flixster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movie Tray.iml" filepath="$PROJECT_DIR$/Movie Tray.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

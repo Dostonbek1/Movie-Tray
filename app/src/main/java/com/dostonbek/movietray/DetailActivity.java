@@ -1,6 +1,4 @@
-package com.example.flixster;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.dostonbek.movietray;
 
 import android.os.Bundle;
 import android.widget.RatingBar;
@@ -8,7 +6,7 @@ import android.widget.TextView;
 
 import com.codepath.asynchttpclient.AsyncHttpClient;
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler;
-import com.example.flixster.models.Movie;
+import com.dostonbek.movietray.models.Movie;
 import com.google.android.youtube.player.YouTubeBaseActivity;
 import com.google.android.youtube.player.YouTubeInitializationResult;
 import com.google.android.youtube.player.YouTubePlayer;

@@ -1,4 +1,4 @@
-package com.example.flixster;
+package com.dostonbek.movietray;
 
 import android.content.Context;
 
