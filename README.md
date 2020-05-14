@@ -3,7 +3,7 @@
 
 Download it on Google Play:
 
-<a href="" target="_blank"><img src="images/google_play_badge.png" height="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.dostonbek.movietray" target="_blank"><img src="images/google_play_badge.png" height="60px"></a>
 
 Screenshots:
 
